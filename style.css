@@ -967,7 +967,7 @@ footer {
     }
 
     .food-text h1 {
-        font-size: 80px;
+        font-size: 100px;
         margin-top: 10px;
     }
 
@@ -1000,7 +1000,7 @@ footer {
     }
 
     .culture-text h2 {
-        font-size: 55px;
+        font-size: 70px;
         margin-top: 10px;
 
     }
@@ -1174,8 +1174,6 @@ footer {
     .place-head h1 {
         font-size: 40px;
     }
-
-
 
     .food-text {
         flex-basis: 100%;
